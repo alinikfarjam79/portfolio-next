@@ -14,10 +14,10 @@ export default function Projects() {
       link: "https://github.com/alinikfarjam79/weather-app",
     },
     {
-      title: "Mofid Securities",
+      title: "crypto app",
       description: "An app shows crypto price",
       image:
-        "https://private-user-images.githubusercontent.com/190830124/413403182-8cd3336f-9335-4481-980b-6fbd7e955b08.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ0NTA3MTQsIm5iZiI6MTc0NDQ1MDQxNCwicGF0aCI6Ii8xOTA4MzAxMjQvNDEzNDAzMTgyLThjZDMzMzZmLTkzMzUtNDQ4MS05ODBiLTZmYmQ3ZTk1NWIwOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQxMlQwOTMzMzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYmFiOWZmMTU1ZWVlZTIzNGUzZmUzNDM3ZjRkMWFjNGFkY2M4ZjU2MTY3MjNjZjRhOWJiZTVkMDlkYzRiNTFhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MkOFfUrPg6BrrF85B_VcPM6UNdzgqU2Qac94Z3OUDns",
+        "https://github.com/alinikfarjam79/cryptoCurrency-js/blob/main/image.png?raw=true",
       category: "Web",
       link: "https://github.com/alinikfarjam79/cryptoCurrency-js",
     },
