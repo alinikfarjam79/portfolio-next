@@ -3,8 +3,6 @@ import { useState } from "react";
 import { BsArrowUpRight } from "react-icons/bs";
 
 export default function Projects() {
-  const [filter, setFilter] = useState("All");
-
   const projects = [
     {
       title: "Weather-app",
