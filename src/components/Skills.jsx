@@ -15,7 +15,7 @@ export default function Skills() {
     { name: "React.js", icon: <FaReact size={40} />, progress: 70 },
     { name: "Next.js", icon: <SiNextdotjs size={40} />, progress: 70 },
     { name: "Tailwind", icon: <SiTailwindcss size={40} />, progress: 85 },
-    { name: "Tailwind", icon: <FaBootstrap size={40} />, progress: 80 },
+    { name: "Bootstrap", icon: <FaBootstrap size={40} />, progress: 80 },
     { name: "Redux", icon: <SiRedux size={40} />, progress: 80 },
   ];
 
