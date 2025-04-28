@@ -1,12 +1,10 @@
-# portfolio
+# Portfolio
 
-[Demo Link](https://portfolio-next-blush-zeta.vercel.app/)
+- [Demo Link](https://portfolio-next-blush-zeta.vercel.app/)
+- **Developed by**: Ali nikfarjam
+- **Created**: 2025-28-04
+- **Technologies Used**: Nextjs- Tailwind
+- **Role**: Frontend
 
-
-### Next js - tailwind
-
-![screen shot](image.png)
-
-
-
+- ![screen shot](image.png)
 
