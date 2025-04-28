@@ -5,6 +5,24 @@ import { BsArrowUpRight } from "react-icons/bs";
 export default function Projects() {
   const projects = [
     {
+      title: "Electronic-shop",
+      description:
+        "The Test Shop Project is a mock e-commerce web application built to demonstrate front-end development skills, featuring a responsive UI",
+      image:
+        "https://github.com/alinikfarjam79/shop-nextjs-zustand/blob/master/image1.png?raw=true",
+      category: "Web",
+      link: "https://github.com/alinikfarjam79/shop-nextjs-zustand",
+    },
+    {
+      title: "AdminPanel",
+      description:
+        "The Test Admin Panel Project is a streamlined dashboard for managing e-commerce operations, showcasing skills in user role management, data visualization",
+      image:
+        "https://github.com/alinikfarjam79/AdminPanel-Next-mui/blob/master/image2.png?raw=true",
+      category: "Web",
+      link: "https://github.com/alinikfarjam79/AdminPanel-Next-mui",
+    },
+    {
       title: "Weather-app",
       description:
         "A weather app provides real-time updates and forecasts for your location.",

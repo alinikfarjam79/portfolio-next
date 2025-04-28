@@ -25,7 +25,6 @@ export default function Home() {
             teams. Open to relocation.
           </p>
 
-          {/* آیکون‌های شبکه‌های اجتماعی */}
           <div className="flex gap-4 mb-10">
             <a
               href="https://github.com/alinikfarjam79"
@@ -51,7 +50,6 @@ export default function Home() {
             </a>
           </div>
 
-          {/* فلش اسکرول */}
           <a href="#about" className="animate-bounce">
             <BsChevronDown size={30} />
           </a>
@@ -59,6 +57,34 @@ export default function Home() {
         <About />
         <Skills />
         <Projects />
+        <div className='w-full flex gap-4 justify-center items-center border-t py-4'>
+          <p>developed by AliNikfarjam</p>
+
+          <div className="flex gap-4 ">
+            <a
+              href="https://github.com/alinikfarjam79"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="p-3 bg-white rounded-full shadow-md hover:bg-gray-100 transition-colors"
+            >
+              <FaGithub size={24} />
+            </a>
+            <a
+              href="https://www.linkedin.com/in/ali-nikfarjam-ba4028208/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="p-3 bg-white rounded-full shadow-md hover:bg-gray-100 transition-colors"
+            >
+              <FaLinkedin size={24} />
+            </a>
+            <a
+              href="mailto:alinikfarjam344@gmail.com"
+              className="p-3 bg-white rounded-full shadow-md hover:bg-gray-100 transition-colors"
+            >
+              <FaEnvelope size={24} />
+            </a>
+          </div>
+        </div>
       </main>
     </div>
   );
